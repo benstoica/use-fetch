@@ -2,7 +2,7 @@
 
 Manage the error, loading and data state of `fetch`
 
-See example use [here](./use-fetch.example.tsx)
+See example use [here](/src/use-fetch/use-fetch.example.tsx)
 
 ## Requirements
 
